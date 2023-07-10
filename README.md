@@ -2,7 +2,7 @@
 
 ### This Project is a Clone of a Single Page of [Samsung's Website](https://www.samsung.com/in/)
 
-### The clone is live deployed at [Samsung-Clone Link](https://63f7978078e93a32088f5fc8--harmonious-mooncake-0d5ef8.netlify.app/)
+### The clone is live deployed at [Samsung-Clone Link](https://samsungclonesahil.netlify.app/)
 
 ## SnapShots
 
